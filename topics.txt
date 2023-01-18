@@ -1,0 +1,9 @@
+she bang
+print
+variables
+inputs
+redirectors
+fucntions
+conditions
+loops
+sed command

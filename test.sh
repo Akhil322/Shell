@@ -1,2 +1,1 @@
-echo "hello akhil"
-test
+echo -e "hello \nAkhil”
