@@ -1,1 +1,1 @@
-echo -e "hello \nAkhil"
+echo -e "\e[31mAkhil Red"
