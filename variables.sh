@@ -29,6 +29,6 @@ echo "welcome good morning today date is $DATE"
 ADD=$((5+54))
 echo $ADD
 
-#arrays
-a=(10,30,50,500)
+#arrays remember there is space beteen variables in array
+a=(10 30 50 500)
 echo ${a[1]}
