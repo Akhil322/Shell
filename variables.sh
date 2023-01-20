@@ -31,4 +31,4 @@ echo $ADD
 
 #arrays
 a=(10,30,50,500)
-echo ${a[4]}
+echo ${a[1]}
