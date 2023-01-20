@@ -18,5 +18,5 @@ date +'%r'
 backup_dir=$(date +'%m/%d/%Y')
 echo "Backup dir for today: /nas04/backups/${backup_dir}"
 
-DATE = $(date +%F)
+DATE = $((date +%F))
 echo "welcome good morning today date is $DATE"
