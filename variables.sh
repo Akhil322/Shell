@@ -26,4 +26,4 @@ echo "welcome good morning today date is $DATE"
 # arithemetic
 
 Add= $((5+54))
-echo ADD
+echo Add
