@@ -32,3 +32,10 @@ echo $ADD
 #arrays remember there is space beteen variables in array
 a=(10 30 50 500)
 echo ${a[1]}
+
+#to declare any variable as environment variable we use export
+export a
+#after this a can be accessed in any script globally
+
+# when you want any varibale as readonly we can use
+readonly a
