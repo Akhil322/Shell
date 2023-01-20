@@ -24,6 +24,11 @@ DATE=$(date +%F)
 echo "welcome good morning today date is $DATE"
 
 # arithemetic
+#note space matters a lot in shell if you give space after = then gone
 
 ADD=$((5+54))
 echo $ADD
+
+#arrays
+a= (10,30,50,500)
+print ${a[4]}
